@@ -1,2 +1,9 @@
-# QA-portfolio-
-Manual testing practice and QA portfolio 
+# QA Testing Portfolio
+
+This repository contains my manual testing practice.
+
+Projects:
+- SauceDemo testing
+- Test cases
+- Bug reports
+- Test plans
